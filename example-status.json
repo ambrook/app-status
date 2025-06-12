@@ -1,0 +1,6 @@
+{
+  "message": "Our website is impacted by a major internet disruption. We're sorry for the inconvenience, and we're working to resolve the issue as soon as possible.",
+  "color": "red",
+  "cta": "GCP Status",
+  "href": "https://status.cloud.google.com/"
+}
